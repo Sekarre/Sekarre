@@ -1,5 +1,5 @@
 # Projects
-Each of following repositories contain used technologies, feel free to check it out:
+Each of following repositories contain README file with used technologies, feel free to check it out:
 ## --------------- Help-center ---------------
 Project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data JPA, Spring AMQP etc.) and Angular
 ### Backend as microservices
