@@ -1,6 +1,6 @@
 # Projects
 Each of the following repositories contain a README file with used technologies, feel free to check it out:
-## --------------- Help-center ---------------
+## Help-center
 Project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data JPA, Spring AMQP etc.) and Angular
 ### Backend as microservices
 
@@ -17,32 +17,32 @@ Project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data J
 ### Frontend
 * [Help center frontend](https://github.com/Sekarre/help-center-front) - Help center's frontend for both versions
 
-## --------------- Docker project ---------------
+## Docker project
 Demo project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data JPA etc.) and Angular
 
 * [Docker 1st project](https://github.com/Sekarre/docker-project) - React.js docker project
 * [Docker 2nd project](https://github.com/Sekarre/docker-project-2) - Spring Cloud + Angular docker project 
 
 
-## --------------- Password wallet ---------------
+## Password wallet
 Project created in Spring Framework (Spring Web MVC, Spring Data JPA etc.) and Angular
 
 * [Password wallet backend](https://github.com/Sekarre/password-wallet)
 * [Password wallet frontend](https://github.com/Sekarre/password-wallet-front)
 
-## --------------- Bowling game ---------------
+## Bowling game
 Project created in Spring Framework (Spring Web MVC, Spring Data JPA etc.) and Angular
 
 * [Bowling game backend](https://github.com/Sekarre/bowling-game)
 * [Bowling game frontend](https://github.com/Sekarre/bowling-game-front)
 
-## --------------- eDiary ---------------
+## eDiary
 Project created in Spring Framework (Spring Web MVC, Spring Data JPA, Thymeleaf etc.) and Flutter
 
 * [eDiary](https://github.com/Sekarre/eDiary) - Backend + frontend with Thymeleaf
 * [eDiary Mobile](https://github.com/Sekarre/eDiaryMobile) - Flutter client for eDiary
 
-## --------------- Schedule project ---------------
+## Schedule project
 Project created in Java, JavaFX and Hibernate
 
 * [Schedule project](https://github.com/Sekarre/Plan-Zajec)
