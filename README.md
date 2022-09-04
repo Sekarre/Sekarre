@@ -1,5 +1,5 @@
 # Projects
-Each of following repositories contain README file with used technologies, feel free to check it out:
+Each of the following repositories contain a README file with used technologies, feel free to check it out:
 ## --------------- Help-center ---------------
 Project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data JPA, Spring AMQP etc.) and Angular
 ### Backend as microservices
@@ -47,7 +47,7 @@ Project created in Java, JavaFX and Hibernate
 
 * [Schedule project](https://github.com/Sekarre/Plan-Zajec)
 
-# Courses' projects
+# Courses projects
 Projects that were the result of the courses:
 
 ### Spring Cloud Saga/CQRS course
