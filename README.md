@@ -20,8 +20,8 @@ Project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data J
 ## Docker project
 Demo project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data JPA etc.) and Angular
 
-* [Docker 1st project](https://github.com/Sekarre/docker-project) - React.js docker project
-* [Docker 2nd project](https://github.com/Sekarre/docker-project-2) - Spring Cloud + Angular docker project 
+* [Docker 1st project](https://github.com/Sekarre/docker-project) - Spring Cloud + Angular docker project  
+* [Docker 2nd project](https://github.com/Sekarre/docker-project-2) - React.js docker project
 
 
 ## Password wallet
