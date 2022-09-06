@@ -11,6 +11,9 @@ Project created in Spring Framework (Spring Cloud, Spring Web MVC, Spring Data J
 * [Help center gateway](https://github.com/Sekarre/help-center-gateway) - Gateway service
 * [Help center discovery server](https://github.com/Sekarre/help-center-discovery-server) - Discovery service
 
+### Backend as microservices - Docker
+* [Help center docker](https://github.com/Sekarre/help-center-docker) - Help center with Docker
+
 ### Backend as monolith
 * [Help center monolith](https://github.com/Sekarre/help-center-mono) - Help center
 
