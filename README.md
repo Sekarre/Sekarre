@@ -77,3 +77,7 @@ Projects that were the result of the courses:
 * [Spring clinic](https://github.com/Sekarre/spring-clinic-course)
 * [Spring cook recipes](https://github.com/Sekarre/spring-cook-recipes)
 
+### Spring Data JPA and Hibernate course
+
+* [Spring Data JPA and Hibernate projects](https://github.com/Sekarre/Spring-hibernate-course)
+
